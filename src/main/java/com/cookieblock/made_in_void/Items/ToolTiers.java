@@ -2,7 +2,6 @@ package com.cookieblock.made_in_void.Items;
 
 import net.minecraft.tags.BlockTags;
 import net.minecraft.world.item.Tier;
-import net.minecraft.world.item.Tiers;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.neoforged.neoforge.common.SimpleTier;
 
