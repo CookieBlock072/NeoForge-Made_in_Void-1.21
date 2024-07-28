@@ -20,7 +20,7 @@ public class CreativeTab {
                     .title(Component.translatable("itemGroup." + Main.MODID + ".made_in_void"))
                     .icon(() -> new ItemStack(VoidItems.TOME_OF_THE_VOID.get()))
                     .displayItems((params, output) -> {
-                        output.accept(VoidItems.LOW_PURITY_VOID.get());
+                        output.accept(VoidItems.DAGGER_OF_EXOCULATION.get());
                     })
                     .build());
 
