@@ -1,0 +1,25 @@
+{   
+    "display": {
+        "announce_to_chat": false,
+        "title": {
+            "translate": "advancement.made_in_void:a_book_from_nowhere.title"
+        },
+        "description": {
+            "translate": "advancement.made_in_void:a_book_from_nowhere.description"
+        },
+        "icon": {
+            "item": "made_in_void:tome_of_the_void"
+        },
+        "background": "minecraft:textures/block/deepslate_tiles.png"
+    },
+    "criteria": {
+      "tick": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "rewards": {
+      "loot": [
+        "made_in_void:grant_book"
+      ]
+    }
+  }

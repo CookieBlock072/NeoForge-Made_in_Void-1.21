@@ -1,0 +1,19 @@
+{
+    "name": "The Book",
+    "icon": "made_in_void:tome_of_the_void",
+    "category": "made_in_void:story",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(0)You found this book in your hand, a corner of the book glinted with the dangerous sheen of $(5)the void/$$(0).$(br2)Your blood ran cold, feeling call of something $(5)alive/$$(0). However, the unsurpassable power from it draws you to risk yourself./$"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It is obviously unwise to touch the void in that corner directly. You have to figure out another way.$(br2)Maybe you should search for the thing $(5)most associated/$ with void."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(4)$(o)One last thing is not to lose this book. Before you get to $(n)the end/$$(4)$(o), it is the only relationship between you and the void, while you may $(n)never know/$$(4)$(o) where it came from or how to make it."
+        }
+    ]
+}

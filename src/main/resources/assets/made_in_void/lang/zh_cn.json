@@ -1,0 +1,7 @@
+{
+    "itemGroup.made_in_void.made_in_void" : "Made in Void",
+    "item.made_in_void.tome_of_the_void" : "§5虚空古籍",
+    "book.made_in_void.tome_of_the_void.landing_text" : "$(5)耳边回响着$(6)$(l)虚空/$$(5)的低语...$(br2)你将要面临的是什么？$(br)是$(6)$(l)祝福/$$(5)...还是$(4)$(l)灾祸/$$(5)呢...",
+    "advancement.made_in_void:a_book_from_nowhere.title" : "无源之书",
+    "advancement.made_in_void:a_book_from_nowhere.description" : "好吧，我们得研究一下它的来处。\n§5Hello, Void!"
+}

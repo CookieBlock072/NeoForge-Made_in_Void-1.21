@@ -1,0 +1,11 @@
+{
+    "name": "item.made_in_void.tome_of_the_void",
+    "landing_text": "book.made_in_void.tome_of_the_void.landing_text",
+    "version": 1,
+    "creative_tab": "made_in_void:made_in_void",
+    "book_texture": "patchouli:textures/gui/book_purple.png",
+    "model": "made_in_void:tome_of_the_void",
+    "i18n": true,
+    "use_blocky_font": true,
+    "use_resource_pack": true
+}

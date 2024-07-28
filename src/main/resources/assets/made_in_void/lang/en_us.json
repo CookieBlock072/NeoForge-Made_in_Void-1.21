@@ -1,0 +1,7 @@
+{
+    "itemGroup.made_in_void.made_in_void" : "Made in Void",
+    "item.made_in_void.tome_of_the_void" : "§5Tome of the Void",
+    "book.made_in_void.tome_of_the_void.landing_text" : "$(5)Whispers of the $(6)$(l)void/$$(5) echo in your ears...$(br2)What are you about to receive?$(br)A $(6)$(l)blessing/$$(5)...or a $(4)$(l)disaster/$$(5)...",
+    "advancement.made_in_void:a_book_from_nowhere.title" : "A Book from Nowhere",
+    "advancement.made_in_void:a_book_from_nowhere.description" : "All right, we need to figure out where it came from.\n§5Hello, Void!"
+}
